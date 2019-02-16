@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "Code Checker",
+    "version": "1.0.6",
+    "description": "This extension verifies the code exists somewhere on this page",
+    "icons": {
+        "128": "apple"
+    },
+    "browser_action": {
+            "default_icon": {
+            "16": "apple"
+        },
+        "default_popup": "popup.html",
+        "default_title": "Check to see if our code is on this page"
+    }
+}
