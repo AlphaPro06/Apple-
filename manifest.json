@@ -6,7 +6,7 @@
   "version": "1.0",
   "author": "@thomasforth",
   "background": {
-    "scripts": ["background.js"],
+    "scripts": ["background.js", "NetflixBackground.js"],
     "persistent": true
   },
 
